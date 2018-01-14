@@ -21,13 +21,30 @@ h1{
     color: white;
 }
 
-
 .buttons a{
     color: white;
     padding:10px;
-    margin:3px;
+    margin-top: 15px;
     text-shadow: 1px 1px 1px black;
     font-size: 28px;
+}
+
+.all:hover{
+    color: rgb(255,191,0);
+    text-shadow: none;
+}
+.onliners:hover{
+    color: #52c234;
+    text-shadow: none;
+}
+
+.offliners:hover{
+    color: #e74c3c;
+    text-shadow: none;
+}
+
+.on{
+    margin-top: 15px;
 }
 
 
